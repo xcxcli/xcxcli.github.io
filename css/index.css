@@ -168,6 +168,9 @@ table td {
 .katex .mathdefault {
   font-style: italic;
 }
+.fireworks {
+  z-index: 1;
+}
 .article-container pre,
 .article-container .highlight {
   overflow: auto;
